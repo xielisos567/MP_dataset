@@ -6,4 +6,5 @@ The datasets generated and/or analysed during the current study are available in
 # Copyrights:
 Shulei Jia
 Tianjin Medical University
-jiashu320lei@126.com
+
+E-mail: jiashu320lei@126.com
